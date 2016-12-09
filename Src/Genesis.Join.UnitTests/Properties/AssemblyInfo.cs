@@ -3,4 +3,4 @@ using System.Reflection;
 
 [assembly: AssemblyTitle("Genesis.Join.UnitTests")]
 [assembly: AssemblyDescription("Contains unit tests for Genesis.Join.")]
-[assembly: CLSCompliantAttribute(true)]
+[assembly: CLSCompliant(false)]
